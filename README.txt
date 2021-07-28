@@ -21,5 +21,5 @@ The location of HTML report will be displayed in CMD after the execution of abov
 
 
 NOTE: To install OpenCppCoverage, visit: https://github.com/OpenCppCoverage/OpenCppCoverage
-
+NOTE: To use Google Test, visit: https://github.com/google/googletest
 
